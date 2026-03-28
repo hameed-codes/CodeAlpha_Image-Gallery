@@ -10,10 +10,10 @@ A responsive, masonry‑style image gallery with a clean lightbox overlay. Built
 
 ## Demo & Screenshot
 
-> Live Demo: [Click Here!]()
+> Live Demo: [Click Here!](https://hameed-codes.github.io/CodeAlpha_Image-Gallery/)
 <br>
-![screenshot_1](./assets/screenshot_1.png)
-![screenshot_2](./assets/screenshot_2.png)
+![screenshot_1](assets/screenshot_1.png)
+![screenshot_2](assets/screenshot_2.png)
 
 ---
 
