@@ -11,7 +11,6 @@ A responsive, masonry‑style image gallery with a clean lightbox overlay. Built
 ## Demo & Screenshot
 
 > Live Demo: [Click Here!](https://hameed-codes.github.io/CodeAlpha_Image-Gallery/)
-<br>
 ![screenshot_1](assets/screenshot_1.png)
 ![screenshot_2](assets/screenshot_2.png)
 
@@ -29,9 +28,9 @@ A responsive, masonry‑style image gallery with a clean lightbox overlay. Built
 
 ## Technologies Used
 
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, `clamp()` for fluid typography, CSS Grid (via `columns`)
-- **JavaScript (ES6)** — event listeners, DOM manipulation
+- **HTML5** : semantic structure
+- **CSS3** : custom properties, `clamp()` for fluid typography, CSS Grid (via `columns`)
+- **JavaScript (ES6)** : event listeners, DOM manipulation
 
 ---
 
